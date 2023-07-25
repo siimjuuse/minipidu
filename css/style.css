@@ -345,11 +345,11 @@ ul.email li a i {
 }
 
 .sidepanel a:hover {
-     color: #a32149;
+     color: #652c3d;
 }
 
 .sidepanel a.active {
-     color: #a32149;
+     color: #6a3142;
 }
 
 .sidepanel .closebtn {
@@ -432,8 +432,8 @@ ul.email li a i {
 }
 
 .service_img {
-     background: rgb(167, 19, 49);
-     background: linear-gradient(139deg, rgba(167, 19, 49, 1) 6%, rgba(138, 21, 171, 1) 96%);
+     background: rgb(203, 100, 121);
+     background: linear-gradient(139deg, rgb(167, 85, 101) 6%, rgba(138, 21, 171, 1) 96%);
      border-radius: 50%;
      height: 300px;
      width: 300px;
